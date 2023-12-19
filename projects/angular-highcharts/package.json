@@ -1,0 +1,24 @@
+{
+  "name": "angular-highcharts",
+  "version": "16.0.0",
+  "author": "Felix Itzenplitz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cebor/angular-highcharts.git"
+  },
+  "keywords": [
+    "angular",
+    "highcharts",
+    "chart",
+    "directive",
+    "component"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": ">=16.0.0",
+    "@angular/core": ">=16.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.6.0"
+  }
+}

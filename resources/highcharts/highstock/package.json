@@ -1,0 +1,6 @@
+{
+	"name": "highcharts/highstock",
+	"version": "10.3.3",
+	"main": "../highstock.js",
+	"types": "../highstock.d.js"
+}
