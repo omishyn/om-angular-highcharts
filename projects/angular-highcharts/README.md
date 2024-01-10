@@ -1,6 +1,6 @@
 # AngularHighcharts
 
-This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.x.x.
 
 ## Code scaffolding
 
@@ -13,7 +13,7 @@ Run `ng build angular-highcharts` to build the project. The build artifacts will
 
 ## Publishing
 
-After building your library with `ng build angular-highcharts`, go to the dist folder `cd dist/angular-highcharts` and run `npm publish`.
+After building your library with `ng build angular-highcharts`, run `npm run publish`.
 
 ## Running unit tests
 

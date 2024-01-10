@@ -1,11 +1,12 @@
 {
   "name": "lib-angular-highcharts",
-  "version": "16.0.0",
+  "version": "16.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build_lib": "ng build angular-highcharts --configuration production && cp README.md dist/angular-highcharts",
+    "build_lib": "ng build angular-highcharts --configuration production && cp README.md dist/angular-highcharts-es",
+    "publish": "npm publish ./dist/angular-highcharts-es",
     "test": "ng test",
     "lint": "ng lint",
     "postinstall": "node ./nf-copy.js"

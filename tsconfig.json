@@ -27,7 +27,7 @@
     "typeRoots": ["./node_modules/@types"],
     "paths": {
       "angular-highcharts": [
-        "dist/angular-highcharts"
+        "dist/angular-highcharts-es"
       ]
     },
     "lib": [
